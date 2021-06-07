@@ -23,7 +23,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(images/header.webp);
+    background-image: url("https://raw.githubusercontent.com/grmajik/ableton-frontendpractice/main/images/header.webp");
     background-size: cover;
     background-position: 50% 50%;
     background-repeat: no-repeat;
@@ -203,7 +203,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(images/poster-meet-the-makers.webp);
+    background-image: url("https://raw.githubusercontent.com/grmajik/ableton-frontendpractice/main/images/poster-meet-the-makers.webp");
     background-size: cover;
     background-position: 50% 50%;
     background-repeat: no-repeat;
